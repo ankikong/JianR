@@ -470,7 +470,7 @@ response: {
 ### 等待分析
 
 ``` python
-http://s4.jr.moefantasy.com/index/login/3753856
+http://s4.jr.moefantasy.com/index/login/{uid}
 http://s4.jr.moefantasy.com/boat/instantFleet/4/[549] 快速编队
 
 http://s4.jr.moefantasy.com/pve/cha11enge/{地图编号}/{舰队编号}/0/
